@@ -12,7 +12,7 @@ module shifter (
     input PRESETn,
     input ss,
     input send_data,
-    input lsbfe,
+    input lsbfe, 
     input cpha,
     input cpol,
     input [`APB_DATA_WIDTH-1:0] data_mosi,
