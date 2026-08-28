@@ -350,4 +350,4 @@ The verification environment is designed to ensure:
 **Chandirapriyan K**  
 RTL Design | Design Verification
 
-**Skills:** SystemVerilog, UVM, APB, SPI, RAL, SVA, Functional Coverage, Constrained-Random Verification, TLM, QuestaSim, Synopsys VCS, Linux
+**Skills:** Verilog, SystemVerilog, UVM, APB, SPI, RAL, SVA, Functional Coverage, Constrained-Random Verification, TLM, QuestaSim, Synopsys VCS, Linux
