@@ -1,18 +1,3 @@
-// =============================================================================
-// APB Sequence Library
-//
-// Description:
-//   Contains APB sequences for configuring the SPI controller through the
-//   APB register interface. Separate sequences are provided to verify all
-//   combinations of CPOL, CPHA and LSB-first configurations, along with
-//   low-power, read and status-register access scenarios.
-// =============================================================================
-
-
-// =============================================================================
-// Base APB Sequence
-// =============================================================================
-
 class apb_base_seqs extends uvm_sequence #(apb_xtn);
 
         `uvm_object_utils(apb_base_seqs)
