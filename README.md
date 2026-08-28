@@ -347,7 +347,7 @@ The verification environment is designed to ensure:
 
 ## Author
 
-**Chandirapriyan K**
+**Chandirapriyan K**  
+RTL Design | Design Verification
 
-B.E. Electrical and Electronics Engineering
-Design Verification / RTL Design
+**Skills:** SystemVerilog, UVM, APB, SPI, RAL, SVA, Functional Coverage, Constrained-Random Verification, TLM, QuestaSim, Synopsys VCS, Linux
