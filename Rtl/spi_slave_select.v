@@ -11,7 +11,7 @@ module spi_slave_select (
     input         mstr,
     input         spiswai,
     input         PCLK,
-    input         send_data,
+    input         send_data, 
     input  [11:0] BaudRateDivisor,
     output reg    ss,
     output reg    receive_data,
