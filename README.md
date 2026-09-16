@@ -221,13 +221,14 @@ SPI_Controller/
 │   ├── spi_agent.sv
 │   └── spi_agt_top.sv
 │
-├── test/
+├── tb/
 │   ├── reg.sv
 │   ├── reg_block.sv
 │   ├── env_config.sv
 │   ├── virtual_sequencer.sv
 │   ├── virtual_seqs.sv
 │   ├── scoreboard.sv
+│   ├── top.sv
 │   └── env.sv
 │
 └── sim/
